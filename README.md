@@ -20,7 +20,7 @@ LinkFree is built using the following technologies:
 
 ## Quickstart
 
-You have 4 options to contribute to the repo, please pick your favourite from:
+You have 4 options to contribute to the repo, please pick your favorite from:
 
 1. [GitHub UI (recommended for adding/editing your profile)](https://github.com/EddieHubCommunity/LinkFree#github-ui)
 2. [Gitpod](https://github.com/EddieHubCommunity/LinkFree#gitpod)
@@ -30,7 +30,7 @@ You have 4 options to contribute to the repo, please pick your favourite from:
 Brief documentation is below, but full documentation can be found here https://linkfree.io/docs
 
 > **Warning**:
-> Your DB will be empty, you will need to load the data into the database! You can do this by visiting the url `/api/system/reload?secret=development`
+> Your DB will be empty, you will need to load the data into the database! You can do this by visiting the URL `/api/system/reload?secret=development`
 
 ### GitHub UI
 
@@ -86,7 +86,7 @@ This will allow you to run your favourite IDE but not have to install any depend
 
 #### Commands
 
-1. `docker compose up` 
+1. `docker-compose up` 
 
 Read more in the official documentation - https://linkfree.io/docs/environments/local-development#docker-compose
 
@@ -113,7 +113,7 @@ Here are some testimonials from individuals who have used LinkFree:-
 > "I had another similar (paid) service. I tried LinkFree for a week and  I got almost double the clicks on the links in the same period, redirecting from the same link. I decided to start using it regularly. I am very satisfied. It's not just a list of links but it's backed by a great Open Source community."
 
 - **Name :** Francesco Ciulla
-- **Bio :** Developer Advocate at daily.dev, Docker Captain, Public Speaker, Community Builder
+- **Bio:** Developer Advocate at daily.dev, Docker Captain, Public Speaker, Community Builder
 - **Username :** <strong><a href="https://linkfree.io/FrancescoXX">Francesco Ciulla</a></strong>
 
 <!-- Section 2 -->
